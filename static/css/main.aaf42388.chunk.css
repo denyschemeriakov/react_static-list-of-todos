@@ -1,0 +1,2 @@
+body{font-family:Arial,sans-serif;font-size:20px;margin:0}li{list-style:none}ul{padding:0}.App__title{text-align:center}.list__item{display:flex;padding:15px;border:1px solid #0c0101}.list__item--completed{background-color:#15f558}.list__item--uncompleted{background-color:#ce4c4c}.user{justify-content:space-evenly}.todo,.user{width:100%;display:flex}.todo{justify-content:space-between}
+/*# sourceMappingURL=main.aaf42388.chunk.css.map */
